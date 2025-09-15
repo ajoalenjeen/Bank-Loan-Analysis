@@ -12,3 +12,10 @@ This project explores a financial loan dataset to identify patterns in loan appl
 * Understand the impact of loan purpose, term length, and home ownership on repayment.
 
 * Visualize borrower distribution across states and employment lengths.
+
+
+# Tools & Libraries
+
+* Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+
+* Jupyter Notebook
