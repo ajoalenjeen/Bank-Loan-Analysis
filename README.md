@@ -27,11 +27,11 @@ This project performs Exploratory Data Analysis (EDA) on a loan dataset to uncov
 * Good Loan vs Bad Loan:
      The dataset shows a clear dominance of good loans, with 33,243 applications (86.18%) totaling $370.22M funded and $435.79M received. In contrast, bad loans accounted for only 5,333 applications (13.82%), with $65.53M funded but only $37.28M received, highlighting the risk gap between fully paid and defaulted loans.
 * Visualization:
-   Montly Trends Visualization
-   State wise Trends Visualization
-   Term wise Visualization
-   Employee Length wise Visualization
-   Loan Purpose wise Visualzation
+   Montly Trends Visualization,
+   State wise Trends Visualization,
+   Term wise Visualization,
+   Employee Length wise Visualization,
+   Loan Purpose wise Visualzation,
    Home Ownership wise Visualization
 
 
