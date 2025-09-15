@@ -5,10 +5,10 @@ This project explores a financial loan dataset to identify patterns in loan appl
 
 # Objectives
 
-Analyze loan application and funding patterns.
+* Analyze loan application and funding patterns.
 
-Compare good vs. bad loans.
+* Compare good vs. bad loans.
 
-Understand the impact of loan purpose, term length, and home ownership on repayment.
+* Understand the impact of loan purpose, term length, and home ownership on repayment.
 
-Visualize borrower distribution across states and employment lengths.
+* Visualize borrower distribution across states and employment lengths.
