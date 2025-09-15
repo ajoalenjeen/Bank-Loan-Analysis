@@ -19,3 +19,12 @@ This project explores a financial loan dataset to identify patterns in loan appl
 * Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
 
 * Jupyter Notebook
+
+
+# Visualizations
+
+* Line charts for monthly applications.
+
+* Bar charts for loan terms and employment lengths.
+
+* Pie/treemap charts for loan purpose.
